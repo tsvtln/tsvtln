@@ -7,7 +7,7 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tsvtln&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tsvtln&&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tsvtln&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsvtln&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
