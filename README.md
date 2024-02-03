@@ -31,9 +31,5 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tsvtln&&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsvtln&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-
-# ⠕ REPLIT
-[![](https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png)](https://replit.com/@tsvtln)<br/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tsvtln&label=You%20are%20visitor%20number&color=0&pretty=true)](https://visitcount.itsvg.in)
