@@ -32,4 +32,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsvtln&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tsvtln&label=You%20are%20visitor%20number&color=0&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
